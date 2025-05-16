@@ -1,0 +1,20 @@
+[project]
+name = "first-ml-project"
+version = "0.1.0"
+description = "MY First End to End Machine Learning Project"
+author = "Hamza Imtiaz"
+email = "hamzaimtiaz8668@gmail.com"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "catboost>=1.2.8",
+    "dill>=0.4.0",
+    "flask>=3.1.1",
+    "matplotlib>=3.10.3",
+    "numpy>=2.2.5",
+    "pandas>=2.2.3",
+    "pip>=25.1.1",
+    "scikit-learn>=1.6.1",
+    "seaborn>=0.13.2",
+    "xgboost>=3.0.1",
+]

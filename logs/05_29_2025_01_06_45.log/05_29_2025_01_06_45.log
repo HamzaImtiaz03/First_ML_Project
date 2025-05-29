@@ -1,0 +1,11 @@
+[ 2025-05-29 01:06:45,562 ] 97 werkzeug - WARNING -  * Debugger is active!
+[ 2025-05-29 01:06:45,566 ] 97 werkzeug - INFO -  * Debugger PIN: 124-299-670
+[ 2025-05-29 01:06:50,248 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:06:50] "GET /predictdata HTTP/1.1" 200 -
+[ 2025-05-29 01:06:55,555 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:06:55] "GET / HTTP/1.1" 200 -
+[ 2025-05-29 01:07:05,800 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:07:05] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2025-05-29 01:26:49,122 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:26:49] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-05-29 01:27:40,717 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:27:40] "POST /predictdata HTTP/1.1" 200 -
+[ 2025-05-29 01:32:10,250 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:32:10] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2025-05-29 01:32:15,829 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:32:15] "GET / HTTP/1.1" 200 -
+[ 2025-05-29 01:32:18,643 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:32:18] "[33mGET /predict HTTP/1.1[0m" 404 -
+[ 2025-05-29 01:33:07,025 ] 97 werkzeug - INFO - 127.0.0.1 - - [29/May/2025 01:33:07] "GET / HTTP/1.1" 200 -
